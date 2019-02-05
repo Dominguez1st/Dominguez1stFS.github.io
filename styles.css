@@ -4,3 +4,10 @@ table, th, td {
 .Visual-Images{
 	display: flex;
 }
+.Visual-Images > img{
+	width: 50%;
+}
+.Circle {
+	width: 33%;
+	height: auto;
+}
